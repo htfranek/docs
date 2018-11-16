@@ -22,7 +22,7 @@ with a text editor.
 - Add `plugins SampSharp` to the file
 - Change the `rcon_password` to a secure long password
 - Change `gamemode` to `empty 1`
-- Remove the `filterscripts` value
+- Remove the `filterscripts` value (unless you want to use it)
 
 ```
 echo Executing Server Config...
